@@ -1,0 +1,6 @@
+url,expected_label,category,description
+https://google.com,safe,legitimate,Official Google website
+https://github.com,safe,legitimate,Official GitHub website
+https://paypal.com.evil.org,suspicious,brand_impersonation,PayPal domain impersonation
+http://192.168.1.1/login,suspicious,ip_based,IP address based URL
+https://xn--pple-43d.com,suspicious,punycode,Punycode hostname

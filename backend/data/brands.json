@@ -1,0 +1,102 @@
+[
+  {
+    "brand": "PayPal",
+    "domain": "paypal.com",
+    "keywords": ["paypal", "paypaI", "pay-pal", "paypal-login"]
+  },
+  {
+    "brand": "Google",
+    "domain": "google.com",
+    "keywords": ["google", "googIe", "google-login", "google-security"]
+  },
+  {
+    "brand": "Microsoft",
+    "domain": "microsoft.com",
+    "keywords": ["microsoft", "micros0ft", "microsoft-login"]
+  },
+  {
+    "brand": "Amazon",
+    "domain": "amazon.com",
+    "keywords": ["amazon", "amaz0n", "amazon-login"]
+  },
+  {
+    "brand": "Facebook",
+    "domain": "facebook.com",
+    "keywords": ["facebook", "faceb00k", "facebook-login"]
+  },
+  {
+    "brand": "Instagram",
+    "domain": "instagram.com",
+    "keywords": ["instagram", "instagrarn", "instagram-login"]
+  },
+  {
+    "brand": "Apple",
+    "domain": "apple.com",
+    "keywords": ["apple", "appIe", "apple-id"]
+  },
+  {
+    "brand": "Netflix",
+    "domain": "netflix.com",
+    "keywords": ["netflix", "netfIix", "netflix-login"]
+  },
+  {
+    "brand": "Telegram",
+    "domain": "telegram.org",
+    "keywords": ["telegram", "teIegram", "telegram-login"]
+  },
+  {
+    "brand": "LinkedIn",
+    "domain": "linkedin.com",
+    "keywords": ["linkedin", "linkedln", "linkedin-login"]
+  },
+  {
+    "brand": "State Bank of India",
+    "domain": "sbi.co.in",
+    "keywords": ["sbi", "state-bank-of-india", "onlinesbi", "sbi-login"]
+  },
+  {
+    "brand": "HDFC Bank",
+    "domain": "hdfcbank.com",
+    "keywords": ["hdfc", "hdfcbank", "hdfc-login", "hdfc-netbanking"]
+  },
+  {
+    "brand": "ICICI Bank",
+    "domain": "icicibank.com",
+    "keywords": ["icici", "icicibank", "icici-login", "icici-netbanking"]
+  },
+  {
+    "brand": "Axis Bank",
+    "domain": "axisbank.com",
+    "keywords": ["axis", "axisbank", "axis-login", "axis-netbanking"]
+  },
+  {
+    "brand": "Kotak Mahindra Bank",
+    "domain": "kotak.com",
+    "keywords": ["kotak", "kotakbank", "kotak-login", "kotak-netbanking"]
+  },
+  {
+    "brand": "Punjab National Bank",
+    "domain": "pnbindia.in",
+    "keywords": ["pnb", "punjab-national-bank", "pnb-login", "pnb-netbanking"]
+  },
+  {
+    "brand": "Bank of Baroda",
+    "domain": "bankofbaroda.in",
+    "keywords": ["bob", "bank-of-baroda", "bob-login", "bob-netbanking"]
+  },
+  {
+    "brand": "Canara Bank",
+    "domain": "canarabank.com",
+    "keywords": ["canara", "canarabank", "canara-login", "canara-netbanking"]
+  },
+  {
+    "brand": "Union Bank of India",
+    "domain": "unionbankofindia.bank.in",
+    "keywords": ["union-bank", "unionbank", "unionbankofindia", "union-bank-login"]
+  },
+  {
+    "brand": "IDFC FIRST Bank",
+    "domain": "idfcfirstbank.com",
+    "keywords": ["idfc", "idfcfirst", "idfc-first-bank", "idfc-login"]
+  }
+]
